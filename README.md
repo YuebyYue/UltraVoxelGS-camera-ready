@@ -2,6 +2,8 @@
 
 <p align="center">
   <a href="https://openreview.net/forum?id=Jo1hZK6YQ8"><img src="https://img.shields.io/badge/Paper-OpenReview-8cbe3c?style=flat-square" alt="Paper on OpenReview"></a>
+  <a href="https://arxiv.org/abs/2611.11951"><img src="https://img.shields.io/badge/arXiv-2611.11951-b31b1b?style=flat-square" alt="arXiv preprint"></a>
+  <a href="https://yuebyyue.github.io/UltraVoxelGS/"><img src="https://img.shields.io/badge/Project-Page-8cbe3c?style=flat-square" alt="Project page"></a>
   <a href="#citation"><img src="https://img.shields.io/badge/Citation-BibTeX-3277b3?style=flat-square" alt="BibTeX citation"></a>
 </p>
 
